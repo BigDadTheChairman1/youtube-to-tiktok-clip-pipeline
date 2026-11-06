@@ -1,0 +1,13 @@
+# Local config and state — never commit these
+tiktok_config.json
+tiktok_tokens.json
+channel_state.json
+channel_log.txt
+posting_queue.csv
+
+# Output
+channel_clips/
+downloads/
+
+__pycache__/
+*.pyc
